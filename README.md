@@ -1,4 +1,4 @@
-# Weather_-App
+# Weather_App
 🌤️ Weather App — Tkinter + OpenWeatherMap API
 A simple desktop GUI application built with Python and Tkinter that allows users to get real-time weather data for any city using the OpenWeatherMap API.
 
